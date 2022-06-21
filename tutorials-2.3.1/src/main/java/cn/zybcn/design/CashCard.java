@@ -22,7 +22,7 @@ public class CashCard extends BankCard{
 
 
     /**
-     * 体现
+     * 提现
      *
      * @param orderId 单号
      * @param amount  金额
